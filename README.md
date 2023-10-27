@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Loh Chee Huan</h1>
 <h3 align="center">A current Year 2 Student at Universiti Teknologi Malaysia. Love to code and sport during my free time. Nice to meet you all.</h3>
 
-- 🌱 I’m currently learning **react, ROS**
+- 🌱 I’m currently learning **React, ROS**
 
 - 📫 How to reach me **huan030716@gmail.com**
 
